@@ -147,3 +147,4 @@ outputs/
 .idea/
 tracking_results
 checkpoints
+*.mp4
