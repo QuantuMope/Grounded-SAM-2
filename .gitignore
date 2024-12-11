@@ -145,3 +145,5 @@ dmypy.json
 outputs/
 
 .idea/
+tracking_results
+checkpoints
